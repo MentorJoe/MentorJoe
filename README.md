@@ -1,6 +1,6 @@
 Hi. I'm a guy.
 
-At one point, I was involved with First Robotics as a mentor, and ended up spending the entire 2018 build season making a silly arcade-game version of PowerUP.
+At one point, I was involved with First Robotics as a mentor, and ended up spending the entire 2018 build season making a [silly arcade-game version of PowerUP](https://github.com/RadioJ0e/RoboticsLite).
 
 Now, I'll just upload some small bits of code here and there so I don't loose them.
 
